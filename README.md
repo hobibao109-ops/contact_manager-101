@@ -1,4 +1,4 @@
-# simple_contact_manager
+# contact_manager-101
 This guide walks you through building a simple Contact Manager application using Python and MySQL. We'll create a small Flask web app with CRUD (Create, Read, Update, Delete) functionality and explain each step so you learn the concepts.
 # notes 
 Setting up MySQL database and user
